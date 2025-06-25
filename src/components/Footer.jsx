@@ -9,7 +9,7 @@ function Footer(){
       <div className="w-[70%] text-white py-[50px]">
         <div className="flex justify-between">
           <div className="flex flex-col items-center">
-            <img className="w-[100px]" src="./images/logo-branca.png" alt="" />
+            <img className="w-[100px]" src="/images/logo-branca.png" alt="" />
             <span className="font-semibold text-2xl">D'ANGELO</span>
             <span className="font-semibold text-2xl"> MED</span>
             <span className="font-light text-sm">Medicina Ocupacional</span>

@@ -4,7 +4,7 @@ import ButtonRed from "./ButtonRed"
 function Home(){
 
   return(
-    <section id="" className="flex items-center justify-center text-white bg-[url('../public/images/bg-clinica.png')]">
+    <section id="" className="flex items-center justify-center text-white bg-[url('/images/bg-clinica.png')]">
       <div className="w-[70%] py-[150px] flex flex-col gap-7">
         <div className="font-bold text-[42px] gap-0">
           <h1 className="w-[350px] leading-[48px]">

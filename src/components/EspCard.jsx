@@ -6,7 +6,7 @@ function EspCard({img,title,text}){
   return(
     <div className="bg-white/10 w-[510px] shadow-xl backdrop-blur-lg rounded-2xl text-white flex flex-col items-center justify-center gap-2.5  ">
 
-      <img className="rounded-t-2xl" src={`../public/images/${img}`} alt="" />
+      <img className="rounded-t-2xl" src={`/images/${img}`} alt="" />
       <h3 className="text-center text-[24px] pt-2 font-semibold ">{title}</h3>
       <div className="border-b-2 w-[60%] mt-[-8px] border-white/30"></div>
       

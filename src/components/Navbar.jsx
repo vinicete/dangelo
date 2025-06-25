@@ -3,7 +3,7 @@ function Navbar(){
     <nav id="home" className="flex items-center justify-center">
 
     <div className="navcont text-pgreen  py-4 px-4 flex flex-row items-center justify-between w-[70%]">
-    <img className="w-[50px]" src="../public/images/logo-red.png" alt="Logo" />
+    <img className="w-[50px]" src="/images/logo-red.png" alt="Logo" />
 
       <ul className="flex gap-6 font-bold">
         <li className=""><a href="#home">Início</a></li>

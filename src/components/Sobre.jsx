@@ -8,7 +8,7 @@ function Sobre(){
         <div className="w-[70%] pb-[20px] border-t-[1px] border-pgreen"></div>
         <h2 className="text-[42px] font-bold text-pgreen" >Quem Somos?</h2>
         <div className="flex flex-row gap-10">
-          <img className="w-[408px] rounded-2xl" src="../public/images/doutora.png" alt="" />
+          <img className="w-[408px] rounded-2xl" src="/images/doutora.png" alt="" />
           <div id="textos" className="text-pgray flex flex-col justify-center text-[16px] gap-10">
             <p>Na <strong className="text-pgreen">D'Angelo Med</strong>, cuidamos da saúde ocupacional com 
               excelência e compromisso. Com uma equipe multidisciplinar 

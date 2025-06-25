@@ -26,7 +26,7 @@ function Contato(){
             
           </div>
           <div className="">
-            <img className="rounded-xl w-[415px]" src="../public/images/equipe.jpeg" alt="" />
+            <img className="rounded-xl w-[415px]" src="/images/equipe.jpeg" alt="" />
           </div>
 
         </div>
